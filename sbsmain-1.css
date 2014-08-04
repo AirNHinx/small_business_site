@@ -1,0 +1,151 @@
+
+
+
+
+body {
+	background-color: #E0FFFF;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+header {
+	display:block;
+	position:fixed;
+	background-image: url(images/green-bar.jpg);
+	background-repeat:no-repeat;
+	background-position: center top;
+	margin:none;
+	padding:none;
+	height:231px;
+
+}
+
+input {
+	display:block;
+	background-image: url(images/magnifying-glass.png);
+	background-size: 14px;
+	background-repeat:no-repeat;
+	background-position: 99% 50%;
+	float:right;
+	margin:-115px 88px 2px 0;
+	width:245px;
+
+}
+
+.logo {
+	display:inline-block;
+	padding:20px 0 0 85px;
+	margin:none;
+}
+
+/*.header-image {
+	display:inline-block;
+	position:absolute;
+	padding:-50px 0 0 300px;
+
+}*/
+
+.login-signup-cart {
+	display:block;
+	text-align:right;
+	font-family: helvetica;
+	margin:0 55px 0 0;
+	float:right;
+	clear:both;
+	font-size: 14px;
+}
+
+.login-signup-cart a {
+	color:white;
+}
+
+.login-signup-cart li {
+	margin-right: 1.5em;
+
+}
+
+nav li {
+	margin-right: 1.5em;
+}
+
+li {
+	display:inline-block;
+	vertical-align:middle;
+	
+}
+
+a {
+	text-decoration:none;
+	font-weight: bold;
+
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.navigation {
+	padding:0 0 0.1px 950px;
+	margin: -48px 55px 0 0;
+	font-size:20px;
+	font-family:Calibri, Arial;
+	word-spacing: 40px
+}
+
+nav a {
+	color:white;
+	margin:15px 15px 0 0;
+}
+
+footer {
+	display:block;
+}
+
+.feature-1 {
+	display:inline-block;
+	margin:250px 0 0 0;
+}
+
+.feature-2 {
+	display:block;
+	margin:30px 0 0 0;
+	
+}
+
+.feature-3 {
+	display:block;
+	margin:30px 0 0 0;
+}
+
+.hero {
+	display:block;
+	text-align: right;
+	margin:-1057px 0 0 0 ;
+	padding-right:5px;
+}
+
+.kicker {
+	display:block;
+	text-align: right;
+	margin:30px 0 0 0;
+	padding-right:5px;
+}
+
+}
+ footer {
+ 	padding:100px 0 70px 0;
+ 	margin:auto;
+ }
+
+footer a {	
+	color:#008000;
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+footer li {
+	padding:40px 40px 40px 92px;
+	margin:auto;
+}

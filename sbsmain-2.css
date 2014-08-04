@@ -1,0 +1,123 @@
+
+body {
+	background-color: #E0FFFF;
+}
+
+header {
+	display:block;
+	position:relative;
+	background-color: #006400;
+	top:-8px;
+	height:230px;
+	width:100%;
+}
+
+.logo {
+	position: relative;
+	display: inline;
+	top: 20px;
+	left: 92px;
+}
+
+li {
+	display:inline-block;
+	vertical-align:middle;
+}
+
+a {
+	text-decoration:none;
+	font-weight: bold;
+	color:white;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.login-signup-cart {
+	position:absolute;
+	display:inline;
+	right:70px;
+	top:0px;
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+.login-signup-cart a {
+	margin-right: 24px;
+}
+
+.search-bar {
+	position:absolute;
+	min-width:200px;
+	right: 104px;
+	bottom:110px;
+}
+
+.search img {
+	position:absolute;
+	height:12px;
+	width:12px;
+	right:114px;
+	bottom:117px;
+}
+
+.navigation {
+	position:absolute;
+	right:93px;
+	bottom:-10px;
+	font-size:20px;
+	font-family:Calibri, Arial;
+	word-spacing: 120px
+}
+
+.above-fold {
+	height:690px;
+	min-width:1870px;
+	margin-top:30px;
+}
+
+.feature-1 {
+	display: inline-block;
+	position: relative;
+	bottom: 363px;
+}
+
+aside {
+	display: inline;
+	position: relative;
+	left: 41px;
+}
+
+.feature-2 {
+	display:inline-block;
+	position:relative;
+	bottom: 332px;	
+}
+
+.below-fold {
+	height:327px;
+	min-width:1870px;
+	margin-top:40px;
+}
+
+.feature-3 {
+	display:inline-block;
+	position:relative;
+}
+
+footer {
+	min-height:130px;
+	width:100%;
+}
+
+
+footer a {	
+	color:#008000;
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+footer li {
+	padding: 4% 4% 2% 4%;
+}
